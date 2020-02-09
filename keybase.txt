@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bluffbluffpass
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bluffbluffpass.com
+  * I am bluffbluffpass (https://keybase.io/bluffbluffpass) on keybase.
+  * I have a public key ASAhNV7k2tZXxAeZtP0rHuVmOxfc3awniAw6bLxX8uFkDwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012021355ee4dad657c40799b4fd2b1ee5663b17dcddac27880c3a6cbc57f2e1640f0a",
+      "host": "keybase.io",
+      "kid": "012021355ee4dad657c40799b4fd2b1ee5663b17dcddac27880c3a6cbc57f2e1640f0a",
+      "uid": "d56c215123e802bc394918ec4dafa219",
+      "username": "bluffbluffpass"
+    },
+    "merkle_root": {
+      "ctime": 1581252357,
+      "hash": "d5b830949b6dde640da5d7a39db79d3c28f20aba82e39250a571b17cbc91e99dd020e18754f97cec926139f2f3adc7c3025f757c28268219a9ec30fbd2915786",
+      "hash_meta": "a3848b522b02cb782fb39e295d7b4a8d538b1ea8d4c3b4ec3628adfecb88788a",
+      "seqno": 14542497
+    },
+    "service": {
+      "entropy": "4ks6FHfhypvhiWCftFFKqTsM",
+      "hostname": "bluffbluffpass.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.0"
+  },
+  "ctime": 1581252376,
+  "expire_in": 504576000,
+  "prev": "86c0ba50dde28f80cf4a378d3142006f3700e4ac9c9af9ccb25acedb3e0ac358",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgITVe5NrWV8QHmbT9Kx7lZjsX3N2sJ4gMOmy8V/LhZA8Kp3BheWxvYWTESpcCCMQghsC6UN3ij4DPSjeNMUIAbzcA5KycmvnMslrO2z4Kw1jEIOVi6FiMeb5lRUBwJD1Ghh0wPKKn0wEZTd4xy0Xz1sQoAgHCo3NpZ8RAHBf6hMm2bIEDcGOzrXs8NZ2m64ta40UVe0rbw5YxR9W0voqROKepWSGYoKtXTUw8M6SST5C6zzOw9cyVztYyCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICfQ+tCdAQcNUrXfjcMz90umlQuEbYXxZhrxNGmad/nOo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bluffbluffpass
+
+==================================================================
